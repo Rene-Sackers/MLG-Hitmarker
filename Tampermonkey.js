@@ -1,11 +1,12 @@
 // ==UserScript==
 // @name       Hitmarker
 // @namespace  hitmarker
-// @version    1
+// @version    1.0
 // @description  MLG Hitmarker Script
 // @include    *
 // @match      *
 // @copyright  2014+, Eraknelo
+// @updateURL  https://raw.githubusercontent.com/Eraknelo/MLG-Hitmarker/master/Tampermonkey.js
 // ==/UserScript==
 
 (function(funcName, baseObj) {

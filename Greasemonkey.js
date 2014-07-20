@@ -2,8 +2,9 @@
 // @name        Hitmarker
 // @namespace   hitmarker
 // @include     *
-// @version     1
+// @version     1.0
 // @grant       none
+// @updateURL   https://raw.githubusercontent.com/Eraknelo/MLG-Hitmarker/master/Greasemonkey.js
 // ==/UserScript==
 
 (function(funcName, baseObj) {
