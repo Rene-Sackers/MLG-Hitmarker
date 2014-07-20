@@ -72,6 +72,7 @@ docReady(function() {
     hitmarkerImage.style.position = "absolute";
     hitmarkerImage.style.zIndex = 2147483647;
     hitmarkerImage.style.display = "none";
+    hitmarkerImage.style.pointerEvents = "none";
     document.body.appendChild(hitmarkerImage);
 
     var hitmarkerSound = document.createElement("audio");
